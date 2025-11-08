@@ -170,4 +170,6 @@ or open notebook directly in **Google Colab.**
 **Elubay Dulat**
 **Tynyshbay Ariyat**
 Machine Learning Student — 2025  
-GitHub: _<your link here>_
+
+<img width="1174" height="788" alt="image" src="https://github.com/user-attachments/assets/1ab8507d-ed5e-44a7-8d23-98599fbdef98" />
+

@@ -1,5 +1,5 @@
 # Assignment 4 — Machine Learning (Regression Models)
-### Student: *Seifulin Adilkhan*
+### Students: *Seifulin Adilkhan*, *Dulat Elubay*, *Tynyshbay Ariyat*
 ### Course: Machine Learning / Data Science
 
 ---
@@ -21,7 +21,7 @@ Dataset used:
 
 ```
 ├── assignment4_final.zip     ← final submission archive
-├── Machine_learning_Seifulin_Adilkhan_Midterm.ipynb  ← main notebook (Colab compatible)
+├── Machine_learning.ipynb  ← main notebook (Colab compatible)
 ├── model_knn.pkl             ← trained KNN pipeline
 ├── model_dt.pkl              ← trained DecisionTree pipeline
 ├── model_rf.pkl              ← trained RandomForest pipeline
@@ -157,15 +157,17 @@ prediction = model.predict(sample)
 
 ```bash
 pip install -r requirements.txt
-jupyter notebook Machine_learning_Seifulin_Adilkhan_Midterm.ipynb
+jupyter notebook Machine_learning.ipynb
 ```
 
 or open notebook directly in **Google Colab.**
 
 ---
 
-## ✨ Author
+## ✨ Authors
 
-**Seifulin Adilkhan**  
+**Seifulin Adilkhan**
+**Elubay Dulat**
+**Tynyshbay Ariyat**
 Machine Learning Student — 2025  
 GitHub: _<your link here>_
